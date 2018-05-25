@@ -84,8 +84,8 @@
 	  	<h3 >ngày rồi đó</h3>
 	  	</div>
 	  	<audio autoplay>
-		    <source src="lovesomeone.mp3" type="audio/ogg">
-		    <source src="lovesomeone.mp3" type="audio/mpeg">
+		    <source src="./mucsic/lovesomeone.mp3" type="audio/ogg">
+		    <source src="./music/lovesomeone.mp3" type="audio/mpeg">
 		</audio>
 	</div>
 	</body>
