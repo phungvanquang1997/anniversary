@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 	$timeslap = time();
 	$dated = $timeslap - 1522623240;
 	$d =  ceil($dated / (24*3600));
@@ -79,7 +79,7 @@
 
 	  <div id="clock"></div>
 	  <div id="date" class="center" style="font-size:200%">
-	  	<h3>Chúng ta đã hẹn hò được </h3>
+	  	<h3>Chúng mình đã hẹn hò được </h3>
 	  	<p style="font-weight: bold"><?= $d ?></p>
 	  	<h3 >ngày rồi đó</h3>
 	  	</div>
