@@ -83,6 +83,10 @@
 	  	<p style="font-weight: bold"><?= $d ?></p>
 	  	<h3 >ngày rồi đó</h3>
 	  	</div>
+	  	<audio autoplay>
+		    <source src="lovesomeone.mp3" type="audio/ogg">
+		    <source src="lovesomeone.mp3" type="audio/mpeg">
+		</audio>
 	</div>
 	</body>
 	</html>
