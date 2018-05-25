@@ -83,9 +83,9 @@
 	  	<p style="font-weight: bold"><?= $d ?></p>
 	  	<h3 >ngày rồi đó</h3>
 	  	</div>
-	  	<audio loop>
-		    <source src="./mucsic/lovesomeone.mp3" type="audio/ogg">
-		    <source src="./music/lovesomeone.mp3" type="audio/mpeg">
+	  	<audio loop autoplay>
+		    <source src="mucsic/lovesomeone.mp3" type="audio/ogg">
+		    <source src="music/lovesomeone.mp3" type="audio/mpeg">
 		</audio>
 	</div>
 	</body>
